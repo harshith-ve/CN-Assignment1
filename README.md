@@ -1,5 +1,5 @@
 # Assignment 1 - Custom DNS Server and Client
-
+## Harshith Venigalla 22110283, Nakka Naga Bhuvith 22110163
 ## Overview
 This project implements a custom DNS server and client in Python. The server resolves domain names to IP addresses based on custom rules defined by the time of day. The client sends domain queries to the server and receives the resolved IP addresses. The project also includes sample packet capture files and reports.
 
